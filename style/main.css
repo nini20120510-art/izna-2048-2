@@ -761,6 +761,7 @@ hr {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  background-color: transparent !important;
 }
 
 .tile.tile-2 .tile-inner {
